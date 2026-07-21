@@ -22,3 +22,5 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+run_term.py
